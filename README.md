@@ -27,7 +27,7 @@ A simple yet instructive Flutter-based mobile app for the BDCC curriculum. This 
     <td align="center"><b>Login</b></td>
     <td align="center"><b>Sign Up</b></td>
     <td align="center"><b>Account Created</b></td>
-    <td align="center"><b>Wrong Credentials</b></td>
+
   </tr>
   <tr>
     <td><img src="screenshots/Screenshot 2025-06-28 133124.png" width="200"/></td>
